@@ -4,4 +4,4 @@
 
 人工智能|web前端|书法|天体物理|足球|跑步|围棋|历史|科幻|甜食重度依赖
 
-php|python|javascript
+php & python & javascript
